@@ -1,0 +1,19 @@
+{
+  "name": "flyfishquotes",
+  "version": "1.0.0",
+  "description": "API for accessing and adding Fly Fishing Quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pthulen/flyfishquotes.git"
+  },
+  "author": "Patrick Thulen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pthulen/flyfishquotes/issues"
+  },
+  "homepage": "https://github.com/pthulen/flyfishquotes#readme"
+}
