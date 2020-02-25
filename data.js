@@ -4,7 +4,7 @@ const quotes = [
       person: 'John Gierach'
     },
     {
-      quote: 'Be patient and calm – for no one can catch fish in anger. best thing about a boolean is even if you are wrong, you are only off by a bit.',
+      quote: 'Be patient and calm – for no one can catch fish in anger.',
       person: 'Herbert Hoover'
     },
     {

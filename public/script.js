@@ -9,7 +9,9 @@ const attributionText = document.querySelector('.attribution');
 const quoteContainerBackground= document.querySelector('.background');
 //background change
 const randomBackground = () => {
-  quoteContainerBackground.setAttribute("id","background-1");
+  const backgroundArray = ['background-1','background-2','background-3','background-4']
+  let backgroundNum = backgroundArray[Math.floor(Math.random() * backgroundArray.length)];
+  quoteContainerBackground.setAttribute("id",backgroundNum);
 }
 
 const resetQuotes = () => {

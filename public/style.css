@@ -2,7 +2,7 @@ html {
     background-color: white;
     color: black;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
     font-size: 16px;
 
 }
@@ -19,11 +19,12 @@ button {
 
 .single-quote {
     padding: 15px;
+    font-size: 20px;
 }
 .background {
     display: flex;
     background-color: grey;
-    background-image: url(./resources/vidar-nordli-mathisen-yJKb_4vjYwA-unsplash.jpg);
+    background-image: url(./resources/shea-rouda-4JshaHY8CA0-unsplash.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -34,7 +35,28 @@ button {
 }
 
 #background-1 {
-    background-image: url(./resources/sticker-mule-qNhstTawQrI-unsplash.jpg);
+    background-image: url(./resources/hunter-brumels-i1aaOj95ZFk-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#background-2 {
+    background-image: url(./resources/jack-murrey-dBgbciMfzrE-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#background-3 {
+    background-image: url(./resources/landscape-photo-of-riverand-pine-trees-2217365.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#background-4 {
+    background-image: url(./resources/vidar-nordli-mathisen-yJKb_4vjYwA-unsplash.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
